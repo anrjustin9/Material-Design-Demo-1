@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
 ===========
 
@@ -76,3 +77,7 @@ Chrome 35+, Firefox 31+, Safari 7+, IE 10+
   - Responsive Tables support added
   - Scrollspy Plugin released
   - Waves events are now delegated / behavior enhanced
+=======
+Uses Materialize to implement Material Design By Google.
+http://htmlpreview.github.io/?https://github.com/anrjustin9/Material-Design-Demo-1/blob/master/index.html
+>>>>>>> origin/master
